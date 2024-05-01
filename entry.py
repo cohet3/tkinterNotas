@@ -44,7 +44,7 @@ def enviar():
     # messagebox(cajas de mensajes)
     mensaje1= entrada1.get()
     if mensaje1:
-        messagebox.showinfo('Mensaje informativo', mensaje1 + 'Inromativo')
+        messagebox.showinfo('Mensaje informativo', mensaje1 + ' -> Infomativo')
         # messagebox.showerror('Hay un problema papa', mensaje1 + 'Errir')
         # messagebox.showwarning('alerta', mensaje1 + 'alertaa')
 def crear_menu():
